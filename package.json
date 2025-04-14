@@ -1,12 +1,12 @@
 {
-  "name": "@aspectron/flow-ux",
+  "name": "@kobradag/flow-ux",
   "version": "1.1.1",
   "description": "User Interface Framework",
   "main": "flow-ux.js",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aspectron/flow-ux"
+    "url": "git+https://github.com/kobradag/flow-ux"
   },
   "keywords": [],
   "license": "MIT",
@@ -28,6 +28,11 @@
     "name": "ASPECTRON Inc.",
     "email": "info@aspectron.com",
     "url": "https://aspectron.com"
+  },
+      "author": {
+    "name": "kobradag team",
+    "email": "kobradagceo@gmail.com.com",
+    "url": "https://k0bradag.com"
   },
   "files": [
     "flow-ux.js",
