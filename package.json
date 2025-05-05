@@ -25,13 +25,8 @@
     "docs": "node_modules/.bin/jsdoc --configure .jsdoc.json --verbose"
   },
   "author": {
-    "name": "ASPECTRON Inc.",
-    "email": "info@aspectron.com",
-    "url": "https://aspectron.com"
-  },
-      "author": {
     "name": "kobradag team",
-    "email": "kobradagceo@gmail.com.com",
+    "email": "kobradagceo@gmail.com",
     "url": "https://k0bradag.com"
   },
   "files": [
